@@ -1,0 +1,9 @@
+[
+  { "name": "ITmedia AIT",      "url": "https://rss.itmedia.co.jp/rss/2.0/ait.xml" },
+  { "name": "Publickey",        "url": "https://www.publickey1.jp/atom.xml" },
+  { "name": "Internet Watch",   "url": "https://internet.watch.impress.co.jp/data/rss/iw.xml" },
+  { "name": "PC Watch",         "url": "https://pc.watch.impress.co.jp/data/rss/pcw.xml" },
+  { "name": "TechCrunch",       "url": "https://techcrunch.com/feed/" },
+  { "name": "GIGAZINE",         "url": "https://gigazine.net/news/rss_2.0/" }
+]
+
